@@ -5,4 +5,4 @@
 - Building a Front Page
 - Building a Search Page
 - Building a Search Result
--
+- Deploy Vercle
